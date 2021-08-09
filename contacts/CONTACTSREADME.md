@@ -2,6 +2,7 @@
 ## Instructions 
 ## Running the Application
 ### `cd contacts`
+### `npm install`
 ### `npm start`
 ### Features
 .Name filter bar- Type characters and names pop up with the character containing in that search  
